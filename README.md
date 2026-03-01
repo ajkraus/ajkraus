@@ -7,6 +7,7 @@ I enjoy working at the intersection of hardware, software and business — writi
 ### What I'm Working On
 - Mechanical engineering projects with a strong software component
 - Automating analysis, testing, and data workflows
+- Leveraging AI to improve productivity and efficiency
 
 ### Tech Stack
 **Languages**
