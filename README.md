@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm AJ 👋
 
-<!--
-**ajkraus/ajkraus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an early-career mechanical engineer who uses software engineering skills every day to design, automate, and improve real-world systems.
 
-Here are some ideas to get you started:
+I enjoy working at the intersection of hardware, software and business — writing code that makes engineering workflows faster, cleaner, and more reliable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+- Mechanical engineering projects with a strong software component
+- Automating analysis, testing, and data workflows
+
+### Tech Stack
+**Languages**
+- Python
+- JavaScript / TypeScript
+- MATLAB
+
+**Engineering & Tools**
+- CAD & simulation workflows
+- Data analysis and visualization
+- Git, Linux, Docker
+
+### Featured Projects
+- **market-data-pipeline** – ETL pipeline processing financial market data from APIs into partitioned S3 data lake  
+- **vector-image-search** – a local vector database to allow users to search images via text prompts or reference images
+
+### What I Care About
+- Continuous learning
+- Building things that solve real problems across different industries and workflows
+
+### Connect With Me
+- GitHub: https://github.com/ajkraus
+- LinkedIn: www.linkedin.com/in/aj-kraus123
+
+
