@@ -13,7 +13,7 @@ I enjoy working at the intersection of hardware, software and business — writi
 **Languages**
 - Python
 - JavaScript / TypeScript
-- MATLAB
+- SQL
 
 **Engineering & Tools**
 - CAD & simulation workflows
