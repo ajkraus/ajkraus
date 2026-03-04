@@ -14,6 +14,7 @@ I enjoy working at the intersection of hardware, software and business — writi
 - Python
 - JavaScript / TypeScript
 - SQL
+- C++
 
 **Engineering & Tools**
 - CAD & simulation workflows
